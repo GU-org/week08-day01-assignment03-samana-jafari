@@ -1,5 +1,5 @@
 function bmiCalc(w,h){
-    let bmi
+    let bmi = w / (h**2);
 
     return bmi;
 
